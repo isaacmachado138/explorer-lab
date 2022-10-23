@@ -2,6 +2,7 @@
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Executor: <b>Isaac Machado</b>
 </p>
 
 <p align="center">
